@@ -11,10 +11,11 @@ In this project all code is written in a single class and inherited other kivy a
 
   ```
   from Language_Trnaslator import main
+  
   obj=main.ConverterApp().run()
   ```
   
-  ### <font color= "green"> Congratulations .... Application opens in your local system.</font>
+### <font color= "green"> Congratulations .... Application opens in your local system.</font>
   
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
