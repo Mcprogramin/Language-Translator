@@ -8,10 +8,10 @@ pip install Language_Translator
 
 # Usage
 In this project all code is written in a single class and inherited other kivy and kimymd layouts and screens and it returns the layout along with the Ui for Translating text.
-  ```bash
-  from Language_Trnaslator import main
-  obj=main.ConverterApp().run()
-  ```
+```bash
+from Language_Trnaslator import main
+obj=main.ConverterApp().run()
+```
   
 ### <font color= "green"> Congratulations .... Application opens in your local system.</font>
   
