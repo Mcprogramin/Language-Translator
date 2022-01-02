@@ -2,6 +2,8 @@
 This Project was mainly developed for converting different native languages into the English Language along with building Android Application for this project using     buildozer tool in python.
  
 # Installation 
+Use the package manager [pip](https://pypi.org/project/Language-Translator/) to install Language Translator Package.
+
 ```bash
 pip install Language_Translator
 ```
@@ -12,8 +14,10 @@ In this project all code is written in a single class and inherited other kivy a
 from Language_Trnaslator import main
 obj=main.ConverterApp().run()
 ```
+Sample output:
+
   
-### <font color= "green"> Congratulations .... Application opens in your local system.</font>
+### Congratulations .... Application opens in your local system.
   
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
